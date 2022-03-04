@@ -60,7 +60,8 @@ hr{
 }
 .upper-cloud
 {
-    position: absolute;  top: 40px; right: 300px;
+    position: absolute;  top: 40px;
+ right: 300px;
 }
 .bottom-cloud
 {
@@ -137,7 +138,7 @@ a:hover{
 .copyright{
   color: #EAF6F6;
   font-family: 'Montserrat', sans-serif;
-  font-size: 0.75 rem;
+  font-size: 80%;
   padding: 20px 0;
 }
 /* ID SELECTOR*/
